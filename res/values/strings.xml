@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RDX</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+    <string name="mail">Mail</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_audio">AudioActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_mail">MailActivity</string>
+    <string name="me"><b>Me</b></string>
+    <string name="rdx"><b>Raghu Dixit -&gt; RDX</b></string>
+    <string name="dob"><b>Came 2 Earth On</b></string>
+    <string name="dob2"><b>Nov 11, 1974</b></string>
+    <string name="fb">Facebook</string>
+    <string name="visit"><u><b><i>http://raghudixit.com/</i></b></u></string>
+    <string name="my_w">My World</string>
+    <string name="view_online">View Online Gallery</string>
+    <string name="touch">Stay in Touch</string>
+    <string name="name">Enter Your name</string>
+    <string name="email">Email id</string>
+    <string name="s_email">Send Email</string>
+    <string name="songs">Playlist</string>
+    <string name="play">Play</string>
+    <string name="s1"></string>
+    <string name="s2"></string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_videos">VideosActivity</string>
+
+</resources>
