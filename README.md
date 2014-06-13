@@ -1,0 +1,1 @@
+This is an android application to promote a music artist called Raghu Dixit. This application has all the media required like Audio, video and images as its resources. This application also links to the artist's personal website and his facebook gallery.
